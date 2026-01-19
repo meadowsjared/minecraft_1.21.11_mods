@@ -18,5 +18,5 @@ To keep these mods separate from your other Minecraft versions and allow for eas
 ### 1. Clone the Repository
 Open a terminal (or Git Bash) where you want to store your game files (e.g., inside `%appdata%\.minecraft_1.20.11_vanilla` folder) and run:
 ```bash
-git clone https://github.com/meadowsjared/minecraft_1.21.1_mods.git
+git clone https://github.com/meadowsjared/minecraft_1.21.1_mods.git ./
 ```
